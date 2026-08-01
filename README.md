@@ -52,7 +52,7 @@ file-integrity-checker/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/file-integrity-checker.git
+git clone https://github.com/anita-sa/file-integrity-checker.git
 ```
 
 Enter the project directory:
